@@ -4,5 +4,7 @@ public class HW2 {
         System.out.println("Hola Sianya :D, éste es un modo muy curioso de decir hola");
 
         System.out.println("Aquí se realizaria la creacion y programacion de nuestro proyecto");
+
+        System.out.println("La colaboración funciona bien");
     }
 }
